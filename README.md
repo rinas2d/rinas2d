@@ -1,5 +1,5 @@
-## Hi, My name is Regina Studenikina.👋
-# I'm Python developer. My major is Backend development.
+# Hi, My name is Regina Studenikina.👋
+## I'm Python developer. My major is Backend development.
 
 
 ## Мой стек

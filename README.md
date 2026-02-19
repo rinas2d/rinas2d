@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, My name is Regina Studenikina.👋
+## I'm Python developer. My major is Backend development.
 
+
+## Мой стек
+Backend: Python, Django / DRF, FastAPI, Flask, aiohttp
+Базы данных: PostgreSQL, SQLite
+Инфраструктура: Docker, Docker Compose, GitHub, Nginx, CI/CD (GitHub Actions)
+Парадигмы & принципы: REST API, OOP, SOLID, TDD (pytest/unittest)
 <!--
 **RinaStud/RinaStud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

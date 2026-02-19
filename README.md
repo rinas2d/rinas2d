@@ -5,13 +5,13 @@
 
 
 ---
-###  Мой стек
+[###  Мой стек
 **Backend:** Python, Django / DRF, FastAPI, Flask, aiohttp  
 **Базы данных:** PostgreSQL, SQLite  
 **Инфраструктура:** Docker, Docker Compose, GitHub, Nginx, CI/CD (GitHub Actions)  
-**Парадигмы & принципы:** REST API, OOP, SOLID, TDD (pytest/unittest)
+**Парадигмы & принципы:** REST API, OOP, SOLID, TDD (pytest/unittest)](url)
 <div align="center">
-    <h3> 🛠️ Languages, Tools and Technologies </h3>
+    <h3> 🛠️ Мой стек </h3>
 </div>
 
 <div align="center">
@@ -22,6 +22,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="6%" height="6%"/>&nbsp;
+</div>
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="Postman" width="6%" height="6%"/>&nbsp;
 </div>
 ---
 

@@ -1,12 +1,33 @@
-# Hi, My name is Regina Studenikina.👋
-## I'm Python developer. My major is Backend development.
+# Hi👋🏻 | I'm Python Backend Developer.
+
+### Обо мне
+Меня зовут Регина Студеникина. Перешла в разработку недавно, но уже есть опытом создания различных проектов — от автоматизации до веб-приложений.
 
 
-## Мой стек
-Backend: Python, Django / DRF, FastAPI, Flask, aiohttp
-Базы данных: PostgreSQL, SQLite
-Инфраструктура: Docker, Docker Compose, GitHub, Nginx, CI/CD (GitHub Actions)
-Парадигмы & принципы: REST API, OOP, SOLID, TDD (pytest/unittest)
+---
+###  Мой стек
+**Backend:** Python, Django / DRF, FastAPI, Flask, aiohttp  
+**Базы данных:** PostgreSQL, SQLite  
+**Инфраструктура:** Docker, Docker Compose, GitHub, Nginx, CI/CD (GitHub Actions)  
+**Парадигмы & принципы:** REST API, OOP, SOLID, TDD (pytest/unittest)
+<div align="center">
+    <h3> 🛠️ Languages, Tools and Technologies </h3>
+</div>
+
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="6%" height="6%"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="6%" height="6%"/>&nbsp;
+</div>
+---
+
+
+
+
 <!--
 **RinaStud/RinaStud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

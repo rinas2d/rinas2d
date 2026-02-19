@@ -5,11 +5,13 @@
 
 
 ---
-[###  Мой стек
+<!--
+###  Мой стек
 **Backend:** Python, Django / DRF, FastAPI, Flask, aiohttp  
 **Базы данных:** PostgreSQL, SQLite  
 **Инфраструктура:** Docker, Docker Compose, GitHub, Nginx, CI/CD (GitHub Actions)  
-**Парадигмы & принципы:** REST API, OOP, SOLID, TDD (pytest/unittest)](url)
+**Парадигмы & принципы:** REST API, OOP, SOLID, TDD (pytest/unittest)
+-->
 <div align="center">
     <h3> 🛠️ Мой стек </h3>
 </div>

@@ -1,66 +1,78 @@
 # Hi👋🏻 | I'm Python Backend Developer.
 
 ### Обо мне
-Меня зовут Регина. Я — Python-разработчик, специализируюсь на Django.
-Здесь показаны мои основные проекты.
+Меня зовут Регина. Я — Python-разработчик, специализируюсь на Django.<br>
+Здесь показаны мои основные проекты.<br>
 В планах — углубление в Django и Flask, изучение других языков программирования, разработка telegram-ботов и создание игр.
 
 <!--
 ###  Мой стек
-**Backend:** Python, Django / DRF, FastAPI, Flask, aiohttp  
-**Базы данных:** PostgreSQL, SQLite  
-**Инфраструктура:** Docker, Docker Compose, GitHub, Nginx, CI/CD (GitHub Actions)  
 **Парадигмы & принципы:** REST API, OOP, SOLID, TDD (pytest/unittest)
 -->
 
+---
+### 🛠️ Мой стек
+
+<table style="width:100%; max-width:800px; margin:auto; border-collapse: collapse;">
+  <tr>
+    <td style="width:30%; vertical-align: top;"><strong>Backend:</strong></td>
+    <td style="text-align: left;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="30" height="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="30" height="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:30%; vertical-align: top;"><strong>Базы данных:</strong></td>
+    <td style="text-align: left;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:30%; vertical-align: top;"><strong>Контейнеризация:</strong></td>
+    <td style="text-align: left;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:30%; vertical-align: top;"><strong>Контроль версий:</strong></td>
+    <td style="text-align: left;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:30%; vertical-align: top;"><strong>Веб-серверы:</strong></td>
+    <td style="text-align: left;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:30%; vertical-align: top;"><strong>Инструменты разработки и тестирования:</strong></td>
+    <td style="text-align: left;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="30" height="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="30" height="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:30%; vertical-align: top;"><strong>Автоматизация и CI/CD:</strong></td>
+    <td style="text-align: left;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="30" height="30"/>
+    </td>
+  </tr>
+</table>
 
 ---
-<div align="center">
-    <h3> 🛠️ Мой стек </h3>
-</div>
-<div style="display: flex; align-items: center;">
-    <h3 style="margin: 0 10px 0 0;">Backend:</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="6%" height="6%"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="6%" height="6%"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="6%" height="6%"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="6%" height="6%"/>
-</div>
-<div>
-    <h3> Backend: </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="6%" height="6%"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="6%" height="6%"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="6%" height="6%"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="6%" height="6%"/>&nbsp;
-</div>
-<div>
-    <p> Базы данных </p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="Postman" width="6%" height="6%"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="6%" height="6%"/>&nbsp;
-</div>
-<div>
-    <h3> Контейнеризация </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="6%" height="6%"/>&nbsp;
-</div>
-<div>
-    <h3> Контроль версий </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="6%" height="6%"/>&nbsp;
-<div>
-    <h3> Веб-серверы </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="6%" height="6%"/>&nbsp;
-</div>
-<div>
-    <h3> Инструменты разработки и тестирования </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="6%" height="6%"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="6%" height="6%"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="6%" height="6%"/>&nbsp;
-</div>
-<div>
-    <h3> Автоматизация и CI/CD </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="6%" height="6%"/>&nbsp;
-</div>
----
 
+### 📁 Мои проекты
 
+| Проект | Описание | Стек |
+|--------|----------|------|
+| **[Foodgram](https://github.com/RinaStud/foodgram)** | REST API с CI/CD: сервис для публикации рецептов с корзиной покупок. | Django REST, Docker, PostgreSQL, Nginx, GitHub Actions | 
+| **[Kittygram](https://github.com/RinaStud/foodgram)** | API на DRF. Настроена оркестрация контейнеров Docker и CI/CD пайплайн на GitHub Actions. | Django, Django REST Framework, pytest, Djoser, PostgreSQL |
+| **[Blog](https://github.com/RinaStud/Blog)** | Блог-платформа с системой публикаций, категориями и модерацией. | Django, PostgreSQL, Django ORM |
 <!--
 **RinaStud/RinaStud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -18,9 +18,15 @@
 <div align="center">
     <h3> 🛠️ Мой стек </h3>
 </div>
-
+<div style="display: flex; align-items: center;">
+    <h3 style="margin: 0 10px 0 0;">Backend:</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="6%" height="6%"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="6%" height="6%"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="6%" height="6%"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="6%" height="6%"/>
+</div>
 <div>
-    ### Backend:
+    <h3> Backend: </h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="6%" height="6%"/>&nbsp;

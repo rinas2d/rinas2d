@@ -33,7 +33,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="6%" height="6%"/>&nbsp;
 </div>
 <div>
-    <h3> Базы данных </h3>
+    <p> Базы данных </p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="Postman" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="6%" height="6%"/>&nbsp;
 </div>

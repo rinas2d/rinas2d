@@ -1,7 +1,7 @@
 # Hi👋🏻 | I'm Python Backend Developer.
 
 ### Обо мне
-Меня зовут Регина. Я — начинающий Python-разработчик, специализируюсь на Django.
+Меня зовут Регина. Я — Python-разработчик, специализируюсь на Django.
 Здесь показаны мои основные проекты.
 В планах — углубление в Django и Flask, изучение других языков программирования, разработка telegram-ботов и создание игр.
 
@@ -20,7 +20,7 @@
 </div>
 
 <div>
-    <h3> Backend </h3>
+    Backend:
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="6%" height="6%"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="6%" height="6%"/>&nbsp;

@@ -73,6 +73,26 @@
 | **[Foodgram](https://github.com/RinaStud/foodgram)** | REST API с CI/CD: сервис для публикации рецептов с корзиной покупок. | Django REST, Docker, PostgreSQL, Nginx, GitHub Actions | 
 | **[Kittybot](https://github.com/RinaStud/Kittybot)** | TelegramBotAPI: Telegram-бот, посылающий котиков | TelegramBotAPI, requests |
 | **[Blog](https://github.com/RinaStud/Blog)** | Блог-платформа с системой публикаций, категориями и модерацией. | Django, PostgreSQL, Django ORM |
+
+---
+
+## Что сейчас делаю
+
+- Пишу собственные шахматы на pygame
+
+---
+
+## 📫 Контакты
+
+- **Email:** rina.studenikina@yandex.ru
+- **Telegram:** [@rina_s2d](https://t.me/rina_s2d)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RinaStud&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+---
 <!--
 **RinaStud/RinaStud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -71,7 +71,7 @@
 | Проект | Описание | Стек |
 |--------|----------|------|
 | **[Foodgram](https://github.com/RinaStud/foodgram)** | REST API с CI/CD: сервис для публикации рецептов с корзиной покупок. | Django REST, Docker, PostgreSQL, Nginx, GitHub Actions | 
-| **[Kittygram](https://github.com/RinaStud/foodgram)** | API на DRF. Настроена оркестрация контейнеров Docker и CI/CD пайплайн на GitHub Actions. | Django, Django REST Framework, pytest, Djoser, PostgreSQL |
+| **[Kittybot](https://github.com/RinaStud/Kittybot)** | TelegramBotAPI: Telegram-бот, посылающий котиков | TelegramBotAPI, requests |
 | **[Blog](https://github.com/RinaStud/Blog)** | Блог-платформа с системой публикаций, категориями и модерацией. | Django, PostgreSQL, Django ORM |
 <!--
 **RinaStud/RinaStud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

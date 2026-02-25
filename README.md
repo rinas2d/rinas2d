@@ -9,7 +9,7 @@ Plans include deepening into Django and Flask, learning other programming langua
 
 <table style="width:100%; max-width:800px; margin:auto; border-collapse: collapse;">
   <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Backend:</strong></td>
+    <td style="width:30%; vertical-align: top;"><strong>Backend</strong></td>
     <td style="text-align: left;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
@@ -18,14 +18,14 @@ Plans include deepening into Django and Flask, learning other programming langua
     </td>
   </tr>
   <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Databases:</strong></td>
+    <td style="width:30%; vertical-align: top;"><strong>Databases</strong></td>
     <td style="text-align: left;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
     </td>
   </tr>
   <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Tools:</strong></td>
+    <td style="width:30%; vertical-align: top;"><strong>Tools</strong></td>
     <td style="text-align: left;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
@@ -34,7 +34,7 @@ Plans include deepening into Django and Flask, learning other programming langua
     </td>
   </tr>
   <tr>
-    <td style="width:30%; vertical-align: top;"><strong>DevOps & Infrastructure::</strong></td>
+    <td style="width:30%; vertical-align: top;"><strong>DevOps & Infrastructure</strong></td>
     <td style="text-align: left;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>

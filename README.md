@@ -1,7 +1,7 @@
 # Hi👋🏻 | I'm Python Backend Developer.
 
 I create web applications for Django and Telegram bots.<br>
-Courses and professional development: Graduate of Yandex Practicum (Python Developer).
+Courses and professional development: Graduate of Yandex Practicum (Python Developer).<br>
 Plans include deepening into Django and Flask, learning other programming languages, developing telegram bots and creating games.
 
 ---

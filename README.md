@@ -1,17 +1,11 @@
 # Hi👋🏻 | I'm Python Backend Developer.
 
-### Обо мне
-Меня зовут Регина. Я — Python-разработчик, специализируюсь на Django.<br>
-Создаю веб-приложения и Telegram-ботов.<br>
-В планах — углубление в Django и Flask, изучение других языков программирования, разработка telegram-ботов и создание игр.
-
-<!--
-###  Мой стек
-**Парадигмы & принципы:** REST API, OOP, SOLID, TDD (pytest/unittest)
--->
+I create web applications for Django and Telegram bots.<br>
+Courses and professional development: Graduate of Yandex Practicum (Python Developer).
+Plans include deepening into Django and Flask, learning other programming languages, developing telegram bots and creating games.
 
 ---
-### 🛠️ Мой стек
+### 🛠️ Tech Stack:
 
 <table style="width:100%; max-width:800px; margin:auto; border-collapse: collapse;">
   <tr>
@@ -24,41 +18,26 @@
     </td>
   </tr>
   <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Базы данных:</strong></td>
+    <td style="width:30%; vertical-align: top;"><strong>Databases:</strong></td>
     <td style="text-align: left;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="30" height="30"/>
     </td>
   </tr>
   <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Контейнеризация:</strong></td>
-    <td style="text-align: left;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="30" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Контроль версий:</strong></td>
+    <td style="width:30%; vertical-align: top;"><strong>Tools:</strong></td>
     <td style="text-align: left;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Веб-серверы:</strong></td>
-    <td style="text-align: left;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="30" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Инструменты разработки и тестирования:</strong></td>
-    <td style="text-align: left;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="30" height="30"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="30" height="30"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="30" height="30"/>
     </td>
   </tr>
   <tr>
-    <td style="width:30%; vertical-align: top;"><strong>Автоматизация и CI/CD:</strong></td>
+    <td style="width:30%; vertical-align: top;"><strong>DevOps & Infrastructure::</strong></td>
     <td style="text-align: left;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="30" height="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="30" height="30"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="30" height="30"/>
     </td>
   </tr>
@@ -66,23 +45,23 @@
 
 ---
 
-### 📁 Мои основные проекты
+### 📁 My favorite projects:
 
-| Проект | Описание | Стек |
+| Project | Description | Stack |
 |--------|----------|------|
-| **[Foodgram](https://github.com/rinas2d/foodgram)** | REST API с CI/CD: сервис для публикации рецептов с корзиной покупок. | Django REST, Docker, PostgreSQL, Nginx, GitHub Actions | 
-| **[Kittybot](https://github.com/rinas2d/Kittybot)** | TelegramBotAPI: Telegram-бот, посылающий котиков | TelegramBotAPI, requests |
-| **[Blog](https://github.com/rinas2d/Blog)** | Блог-платформа с системой публикаций, категориями и модерацией. | Django, PostgreSQL, Django ORM |
+| **[Foodgram](https://github.com/rinas2d/foodgram)** | REST API with CI/CD: service for publishing recipes with a shopping cart. | Django REST, Docker, PostgreSQL, Nginx, GitHub Actions | 
+| **[Kittybot](https://github.com/rinas2d/Kittybot)** | TelegramBotAPI: Telegram bot that sends cats | TelegramBotAPI, requests |
+| **[Blog](https://github.com/rinas2d/Blog)** | A blog platform with a system of publications, categories, and moderation. | Django, PostgreSQL, Django ORM |
 
 ---
 
-## Что сейчас делаю
+## Doing now:
 
-- Пишу собственные шахматы на pygame
+- I'm developing my own chess on pygame
 
 ---
 
-## 📫 Контакты
+## 📫 How to contact me
 
 - **Email:** rina.studenikina@yandex.ru
 - **Telegram:** [@rina_s2d](https://t.me/rina_s2d)
